@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import matplotlib.ticker as ticker
+
 
 # Mengambil data
 @st.cache_data
